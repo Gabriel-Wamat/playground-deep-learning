@@ -1,0 +1,7 @@
+node_modules/
+atlas-react/diagram.bundle.js
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
